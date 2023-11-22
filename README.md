@@ -171,7 +171,7 @@ hospital.html
 ```
 
 ## OUTPUT
-![Alt text](kishan/mapapp/static/map.png)
+![Alt text](<my map.png>)
 ![Alt text](home.png)
 ![Alt text](cine.png)
 ![Alt text](school.png)
