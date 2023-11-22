@@ -177,8 +177,5 @@ hospital.html
 ![Alt text](school.png)
 ![Alt text](park.png)
 ![Alt text](hos.png)
-
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
